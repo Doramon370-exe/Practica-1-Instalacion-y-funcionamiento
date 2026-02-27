@@ -1,9 +1,11 @@
-Práctica 1: Instalación y Funcionamiento
+# Práctica 1: Instalación y Funcionamiento
 Unidad de Aprendizaje: Desarrollo de Aplicaciones Móviles Nativas
 
-Alumno: Díaz Peña Alfredo Yael
+## Ejercicio 1: Instalación de herramientas
 
-Herramientas Instaladas
+## Alumno: Díaz Peña Alfredo Yael
+
+### Herramientas Instaladas
 A continuación se detallan las herramientas configuradas para el entorno de desarrollo:
 
 Android Studio
@@ -48,9 +50,9 @@ Prueba de funcionamiento con la aplicación básica de contador (toques).
 <img src="https://github.com/user-attachments/assets/ff328b02-9c54-43b2-8093-a8b9ce9284ea" width="350" alt="Flutter Demo">
 </p>
 
-Alumno: Mejía Franco Esteban Saúl
+## Alumno: Mejía Franco Esteban Saúl
 
-Herramientas Instaladas
+### Herramientas Instaladas
 A continuación se detallan las herramientas configuradas para el entorno de desarrollo:
 
 Android Studio
@@ -77,9 +79,9 @@ Flutter Demo
 <img src="https://github.com/user-attachments/assets/01c95b76-7732-4bad-9422-7c1e186c83de" width="400" alt="App prueba Flutter Mejia">
 </p>
 
-Alumno: Flores Madrigal Diego
+## Alumno: Flores Madrigal Diego
 
-Herramientas Instaladas
+### Herramientas Instaladas
 A continuación se detallan las herramientas configuradas para el entorno de desarrollo:
 
 Android Studio
@@ -101,8 +103,32 @@ Flutter Demo
 <img width="482" height="792" alt="Prueba Flutter Diego" src="https://github.com/user-attachments/assets/273dca32-ae54-42d9-9491-4b9b39649e0f" />
 </p>
 
+## Ejercicio 2: Navegación Creativa
 
+### Descripción de las Actividades
 
+*   **`MainActivity`**: Es la actividad principal y el punto de entrada de la aplicación. Muestra el `GalaxiaFragment` y contiene un botón que te permite navegar a la `SistemaSolarActivity`.
+*   **`SistemaSolarActivity`**: Esta actividad muestra el `SistemaSolarFragment` y tiene un botón para navegar a la `PlanetasActivity`.
+*   **`PlanetasActivity`**: Esta actividad muestra el `PlanetasFragment` y te permite continuar el viaje hacia la `LunasActivity` con un botón.
+*   **`LunasActivity`**: Es la pantalla final de la aplicación y muestra el `LunasFragment`.
 
+### Transiciones y Ciclo de Vida de Android
 
+**Transiciones:**
+Las transiciones entre las diferentes pantallas de la aplicación se manejan mediante `Intents`. Cuando un usuario pulsa un botón de navegación, se crea un nuevo `Intent` que especifica la `Activity` de destino. Luego, se llama a `startActivity()` para iniciar la nueva actividad y mostrar la pantalla correspondiente.
 
+**Ciclo de Vida:**
+El código utiliza el método `onCreate()`, que es una parte fundamental del ciclo de vida de una `Activity` en Android. Dentro de `onCreate()`:
+1.  Se establece el diseño de la `Activity` con `setContentView()`.
+2.  Se carga el `Fragment` inicial en un contenedor.
+3.  Se comprueba si `savedInstanceState` es `null` antes de cargar el `Fragment`. Esta es una práctica recomendada para evitar la creación de un nuevo `Fragment` cada vez que se recrea la `Activity` (por ejemplo, al girar la pantalla).
+
+Todas las actividades heredan de `FragmentActivity`, la clase base para las actividades que utilizan las API de `Fragment` de la biblioteca de compatibilidad.
+
+### Instrucciones para Ejecutar la Aplicación
+
+1.  Abre el proyecto en Android Studio.
+2.  Conecta un dispositivo Android o inicia un emulador.
+3.  Haz clic en el botón **Run** (el triángulo verde) en la barra de herramientas de Android Studio.
+4.  Android Studio compilará el proyecto y lo desplegará en el dispositivo o emulador seleccionado.
+5.  La aplicación se iniciará y mostrará la `MainActivity`.
