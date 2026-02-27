@@ -125,7 +125,7 @@ Git, Java, Maven y Node.js
 
 Primera app de Flutter
 <p align="center">
-  
+  <img width="1290" height="985" alt="Captura de pantalla 2026-02-27 165324" src="https://github.com/user-attachments/assets/d0608382-8608-4ddb-907b-de7416d815c2" />
 </p>
 
 
