@@ -54,6 +54,32 @@ Herramientas Instaladas
 A continuación se detallan las herramientas configuradas para el entorno de desarrollo:
 
 Android Studio
-<p align="left">
-<img src="" width="400" alt="Android Studio Setup Mejía">
+<p align="center">
+<img src="https://github.com/user-attachments/assets/6bf92110-badb-4f78-93ee-28f717a10b14" width="350" alt="Android Studio Mejia">
 </p>
+
+Github desktop & cuenta
+<p align="center">
+<img src="https://github.com/user-attachments/assets/073d5ccd-4a1a-42be-825a-d5bad4d182bf" width="400" alt="Github Desk Mejia">
+</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/065a24ee-fa6a-456d-a2fa-a237e5d77854" width="400" alt="Account Mejia">
+</p>
+
+Java, Maven, Node JS y git 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/945bc2c5-c114-43a1-b3ac-f1a4c847d994" width="400" alt="Versiones de tech´s Mejia">
+</p>
+
+Flutter Demo
+<p align="center">
+<img src="https://github.com/user-attachments/assets/01c95b76-7732-4bad-9422-7c1e186c83de" width="400" alt="App prueba Flutter Mejia">
+</p>
+
+
+
+
+
+
+
