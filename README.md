@@ -48,6 +48,3 @@ Prueba de funcionamiento con la aplicación básica de contador (toques).
 <img src="https://github.com/user-attachments/assets/ff328b02-9c54-43b2-8093-a8b9ce9284ea" width="350" alt="Flutter Demo">
 </p>
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/ff328b02-9c54-43b2-8093-a8b9ce9284ea" width="350" alt="Flutter Demo">
-</p>
