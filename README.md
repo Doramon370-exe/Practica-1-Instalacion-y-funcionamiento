@@ -77,6 +77,29 @@ Flutter Demo
 <img src="https://github.com/user-attachments/assets/01c95b76-7732-4bad-9422-7c1e186c83de" width="400" alt="App prueba Flutter Mejia">
 </p>
 
+Alumno: Flores Madrigal Diego
+
+Herramientas Instaladas
+A continuación se detallan las herramientas configuradas para el entorno de desarrollo:
+
+Android Studio
+<p align="center">
+<img width="1914" height="1031" alt="Android Studio Diego" src="https://github.com/user-attachments/assets/78f50e4f-da8e-451e-a457-f9764647b738" />
+</p>
+
+Github cuenta
+<p align="center">
+<img width="1848" height="983" alt="Github Diego" src="https://github.com/user-attachments/assets/23551b5e-6977-4eca-9bc6-0fc6b59c41fe" />
+
+Java, Maven, Node JS y git 
+<p align="center">
+<img width="975" height="512" alt="Versiones herramientas Diego" src="https://github.com/user-attachments/assets/ca007274-6b22-438c-a23a-b31ff35d6594" />
+</p>
+
+Flutter Demo
+<p align="center">
+<img width="482" height="792" alt="Prueba Flutter Diego" src="https://github.com/user-attachments/assets/273dca32-ae54-42d9-9491-4b9b39649e0f" />
+</p>
 
 
 
