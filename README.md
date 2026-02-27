@@ -103,6 +103,33 @@ Flutter Demo
 <img width="482" height="792" alt="Prueba Flutter Diego" src="https://github.com/user-attachments/assets/273dca32-ae54-42d9-9491-4b9b39649e0f" />
 </p>
 
+## Alumno: Castro Rodriguez Paola Yazmin
+
+### Herramientas Instaladas
+A continuación se detallan las herramientas configuradas para el entorno de desarrollo:
+
+Android Studio
+<p align="center">
+<img width="1920" height="1080" alt="Android Studio Paola jeje" src="https://github.com/user-attachments/assets/d1878423-4e8d-4b71-81df-36137a8fe077" />
+</p>
+
+GitHub
+<p align="center">
+<img width="1920" height="1080" alt="Captura de pantalla 2026-02-27 012418" src="https://github.com/user-attachments/assets/82df1124-feca-47b3-a4f9-16b7d26afc5a" />
+</p>
+
+Git, Java, Maven y Node.js
+<p align="center">
+<img width="1920" height="1080" alt="Captura de pantalla 2026-02-27 015319" src="https://github.com/user-attachments/assets/4e43dbac-46d8-4f49-8d81-f68d99af62c2" />
+</p>
+
+Primera app de Flutter
+<p align="center">
+  
+</p>
+
+
+
 ## Ejercicio 2: Navegación Creativa
 
 ### Descripción de las Actividades
