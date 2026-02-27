@@ -48,3 +48,12 @@ Prueba de funcionamiento con la aplicación básica de contador (toques).
 <img src="https://github.com/user-attachments/assets/ff328b02-9c54-43b2-8093-a8b9ce9284ea" width="350" alt="Flutter Demo">
 </p>
 
+Alumno: Mejía Franco Esteban Saúl
+
+Herramientas Instaladas
+A continuación se detallan las herramientas configuradas para el entorno de desarrollo:
+
+Android Studio
+<p align="left">
+<img src="" width="400" alt="Android Studio Setup Mejía">
+</p>
