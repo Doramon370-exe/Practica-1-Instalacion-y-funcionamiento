@@ -4,7 +4,7 @@ Descarga de Herramientas
 Díaz Peña Alfredo Yael
 
 Android Studio:
-<img width="1919" height="980" alt="Captura de pantalla 2026-02-27 005437" src="https://github.com/user-attachments/assets/63605fb9-bdd7-4546-90a5-f501dd9c3475" />
+<img width="500" height="980" alt="Captura de pantalla 2026-02-27 005437" src="https://github.com/user-attachments/assets/63605fb9-bdd7-4546-90a5-f501dd9c3475" />
 Java JDK Amazon
 <img width="618" height="480" alt="Captura de pantalla 2026-02-26 233635" src="https://github.com/user-attachments/assets/4e2a845e-a173-4102-88c0-ad6573b770c2" />
 Maven
