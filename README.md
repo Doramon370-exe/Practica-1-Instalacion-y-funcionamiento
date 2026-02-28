@@ -136,21 +136,21 @@ Primera app de Flutter
 
 *   **`MainActivity`**: Es la actividad principal y el punto de entrada de la aplicación. Muestra el `GalaxiaFragment` y contiene un botón que te permite navegar a la `SistemaSolarActivity`.
   <p align="center">
-  <img width="756" height="1600" alt="image" src="https://github.com/user-attachments/assets/3cb7a2cd-dfc7-4b25-9620-bd5ec3043f57" />
+  <img width="378" height="800" alt="image" src="https://github.com/user-attachments/assets/3cb7a2cd-dfc7-4b25-9620-bd5ec3043f57" />
   </p>
 *   **`SistemaSolarActivity`**: Esta actividad muestra el `SistemaSolarFragment` y tiene un botón para navegar a la `PlanetasActivity`.
   <p align="center">
-  <img width="756" height="1600" alt="image" src="https://github.com/user-attachments/assets/45f7a116-be46-42f9-aa0e-c0452c5d0319" />
+  <img width="378" height="800" alt="image" src="https://github.com/user-attachments/assets/45f7a116-be46-42f9-aa0e-c0452c5d0319" />
   </p>
 
 *   **`PlanetasActivity`**: Esta actividad muestra el `PlanetasFragment` y te permite continuar el viaje hacia la `LunasActivity` con un botón.
   <p align="center">
-  <img width="756" height="1600" alt="image" src="https://github.com/user-attachments/assets/52b8de99-292e-464a-9d25-9344c45c4b78" />
+  <img width="378" height="800" alt="image" src="https://github.com/user-attachments/assets/52b8de99-292e-464a-9d25-9344c45c4b78" />
   </p>
 
 *   **`LunasActivity`**: Es la pantalla final de la aplicación y muestra el `LunasFragment`.
   <p align="center">
-  <img width="756" height="1600" alt="image" src="https://github.com/user-attachments/assets/6a59fe2c-ab55-4798-960e-db3fd9425882" />
+  <img width="378" height="800" alt="image" src="https://github.com/user-attachments/assets/6a59fe2c-ab55-4798-960e-db3fd9425882" />
   </p>
 
 
