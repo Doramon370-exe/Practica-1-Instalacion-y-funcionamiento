@@ -7,12 +7,11 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
 
-class LunasActivity : FragmentActivity() { // Usamos FragmentActivity para evitar el crash
+class LunasActivity : FragmentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_lunas)
 
-        // Cargamos el Fragment de las Lunas en el contenedor
         if (savedInstanceState == null) {
             supportFragmentManager.beginTransaction()
                 .replace(R.id.fragmentContenedorLunas, LunasFragment())
